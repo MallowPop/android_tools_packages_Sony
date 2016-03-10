@@ -1,4 +1,4 @@
-# android_tools_packages_Sony
+# AdvancedAPKTool for Xperia Devices (Tools_Packages_Sony)
 
 How to use this tool:
 
